@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+build/
+dist/
+*.spec
+
+# written at runtime, next to the app
+data/
+error.log

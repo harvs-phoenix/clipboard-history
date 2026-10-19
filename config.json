@@ -1,0 +1,23 @@
+{
+  "clipboard": {
+    "enabled": true,
+
+    "hotkey": "ctrl+shift+v",
+    "quit_hotkey": "ctrl+shift+alt+q",
+
+    "max_items": 200,
+    "max_chars": 20000,
+    "ignore_if_contains": [],
+
+    "auto_paste": true,
+    "paste_delay_ms": 250,
+    "poll_interval_ms": 400,
+
+    "preview_chars": 120,
+    "popup_width": 520,
+    "popup_height": 420,
+    "show_timestamps": true,
+
+    "data_dir": ""
+  }
+}
